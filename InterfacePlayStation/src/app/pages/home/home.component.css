@@ -8,3 +8,15 @@
 	align-items: baseline;
 	flex-wrap: wrap;
 }
+
+.footer {
+	background-color: #ffffff;
+	font-family: 'Segoe UI';
+	display: flex;
+	justify-content: center;
+}
+
+.footer:hover {
+	color: blue;
+	font-weight: 600;
+}
